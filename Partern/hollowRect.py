@@ -1,3 +1,4 @@
+# code for the hollow pyramid 
 
 num = int(input("Enter the number :: "))
 
